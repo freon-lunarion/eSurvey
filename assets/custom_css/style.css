@@ -1,0 +1,20 @@
+.pull-center{
+	text-align: center;
+}
+.form-horizontal .control-label {
+	float: left;
+	width: 60px;
+	padding-top: 5px;
+	text-align: right;
+}
+.form-horizontal .controls {
+	margin-left: 80px;
+}
+
+.page-header{
+	text-align: center;
+}
+
+.page-header>h1>small{
+    display: block;
+}
